@@ -1746,6 +1746,19 @@ body {
 .cid-qBYmq0xOym .mbr-section-subtitle {
   color: #767676;
 }
+.cid-qBZhwmGI0D {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-color: #073b4c;
+}
+.cid-qBZhUcxrQz {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qBZhUcxrQz .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qBYLCQdoeP {
   padding-top: 135px;
   padding-bottom: 90px;
@@ -1790,6 +1803,9 @@ body {
   width: 25px;
   height: 25px;
   border-radius: 50%;
+  background: none;
+  border: 1px solid #149dcc;
+  color: #149dcc;
   content: '✓';
 }
 .cid-qBYRJu8tuQ .navbar {
