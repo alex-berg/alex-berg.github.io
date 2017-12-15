@@ -2,12 +2,3 @@ User-agent: *
 Disallow: /project.mobirise
 Sitemap: https://www.alexberg.pro/sitemap.xml
 Host*: https://www.alexberg.pro
-
-
-
-
-
-
-
-
-
