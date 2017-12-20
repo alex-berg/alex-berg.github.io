@@ -1,5 +1,8 @@
 User-agent: *
 Disallow: /project.mobirise
-Sitemap: https://www.alexberg.pro/sitemap.xml
+Sitemap: http://www.alexberg.pro/sitemap.xml
 Host: www.alexberg.pro
+
+
+
 
