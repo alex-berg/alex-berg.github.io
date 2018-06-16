@@ -11622,8 +11622,59 @@ body {
 .cid-qJJd5K1Wnb DIV {
   text-align: left;
 }
-.cid-qJIEkcmtnq {
+.cid-qV6w5ASeEE {
   padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-qV6w5ASeEE .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qV6uMLs4zi {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qV6uMLs4zi .card-img a {
+  display: block;
+  padding-top: 2rem;
+}
+.cid-qV6uMLs4zi .card-box {
+  padding: 0 2rem;
+}
+.cid-qV6uMLs4zi .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qV6uMLs4zi .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qV6uMLs4zi h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-qV6uMLs4zi p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-qV6uMLs4zi .mbr-text {
+  color: #767676;
+}
+.cid-qV6uMLs4zi .card-wrapper {
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qV6uMLs4zi .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qJIEkcmtnq {
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
