@@ -5104,6 +5104,113 @@ body {
 .cid-qNLMjnC0QB .mbr-text LI {
   color: #232323;
 }
+.cid-qYBTE7eFdo {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-qYBTE7eFdo .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qYBSdkBjsC {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-qYBSdkBjsC .card-img a {
+  display: block;
+  padding-top: 2rem;
+}
+.cid-qYBSdkBjsC .card-box {
+  padding: 0 2rem;
+}
+.cid-qYBSdkBjsC .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qYBSdkBjsC .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-qYBSdkBjsC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-qYBSdkBjsC p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-qYBSdkBjsC .mbr-text {
+  color: #767676;
+}
+.cid-qYBSdkBjsC .card-wrapper {
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qYBSdkBjsC .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qYCa1N5kzi {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qYCa1N5kzi .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-qYCa1N5kzi .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-qYCa1N5kzi .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  background-color: transparent;
+  border: 0;
+}
+.cid-qYCa1N5kzi .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-qYCa1N5kzi .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-qYCa1N5kzi .plan.favorite {
+  background-color: #fff;
+  box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
+}
+.cid-qYCa1N5kzi .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-qYCa1N5kzi .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-qYCa1N5kzi .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-qYCa1N5kzi .price-figure {
+    font-size: 4.25rem;
+  }
+}
 .cid-qF1juTs0lI {
   padding-top: 75px;
   padding-bottom: 45px;
