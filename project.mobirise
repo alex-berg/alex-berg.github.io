@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "похудей онлайн",
-    "currentPage": "index.html",
+    "currentPage": "сайт диетолога.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -279,7 +279,7 @@
             }
           },
           "_name": "header3",
-          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073b4c\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#073b4c\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/-1200-500x500.png\" alt=\"Акция в бишкеке скидки\" title=\"Средства для похудения бишкек\">\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\"><b><br></b>СЕЙЧАС <b>АКЦИЯ</b><br></h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-5\">СКИДКА для Киргизии до 1 февраля 2019 г</h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-2\"><b>КУПИ 2 КОМПЛЕКТА</b>&nbsp;за <b>4400</b> сом <br>и получи в ПОДАРОК <br><b>Гель для ПОХУДЕНИЯ</b> стоимостью&nbsp;<b>1200</b> сом<br></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"похудеть за неделю.html#form4-1x\">УСПЕЙ со СКИДКОЙ&nbsp;+996 700 737436</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073b4c\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#073b4c\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/-1200-500x500.png\" alt=\"Акция в бишкеке скидки\" title=\"Средства для похудения бишкек\">\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\"><b><br></b>СЕЙЧАС <b>АКЦИЯ</b><br></h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-5\"></h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-2\"><b>КУПИ 2 КОМПЛЕКТА</b>&nbsp;за <b>4400</b> сом <br>и получи в ПОДАРОК <br>Гель&nbsp;<b>ЖИРОСЖИГАТЕЛЬ</b>&nbsp;стоимостью&nbsp;<b>1200</b> сом<br></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"похудеть за неделю.html#form4-1x\">УСПЕЙ со СКИДКОЙ&nbsp;+996 700 737436</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header3-o3",
           "_cid": "rdTjJyPMqf",
           "_protectedParams": [],
@@ -329,110 +329,9 @@
             }
           },
           "_name": "header3",
-          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"100\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/775x416-1.png\" alt=\"скидка акция распродажа в бишкеке\" title=\"похудеть быстро в бишкеке\">\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\"><br><br>До конца СКИДКИ осталось...</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">\n                        Full width intro with image background, color overlay and a picture on the left. You can easily change the size of image in block parameters.\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"100\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/775x416-1.png\" alt=\"скидка акция распродажа в бишкеке\" title=\"похудеть быстро в бишкеке\">\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\"><br><br><b>СКИДКА закончится</b> в любой момент...</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">\n                        Full width intro with image background, color overlay and a picture on the left. You can easily change the size of image in block parameters.\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header3-lf",
           "_cid": "rc2fzwgHcp",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background": "url(@bg-value)"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#767676",
-              "font-weight": "300"
-            },
-            ".number-wrap": {
-              "color": "@labelsColor",
-              "border-color": "rgba(255, 255, 255, 0.15)",
-              "position": "relative",
-              "display": "inline-block",
-              "text-align": "center",
-              "padding": "5px 10px 13px 10px",
-              "margin": "0",
-              "min-width": "118px",
-              "border-radius": "2px",
-              "max-width": "100%"
-            },
-            ".number": {
-              "font-style": "normal",
-              "font-weight": "700",
-              "font-size": "55px",
-              "text-transform": "none",
-              "letter-spacing": "-2px",
-              "word-spacing": "0",
-              "line-height": "1.3",
-              "color": "@numbersColor"
-            },
-            ".period": {
-              "display": "block",
-              "padding-top": "2px",
-              "border-top": "1px solid rgba(0, 0, 0, 0.1)"
-            },
-            ".dot": {
-              "position": "absolute",
-              "top": "-10px",
-              "right": "-1em",
-              "width": "1em",
-              "display": "block",
-              "height": "83%",
-              "overflow": "hidden",
-              "font-style": "normal",
-              "font-weight": "700",
-              "font-size": "55px",
-              "line-height": "89.65px",
-              "text-transform": "none",
-              "letter-spacing": "0",
-              "word-spacing": "0",
-              "color": "@numbersColor"
-            },
-            ".countdown-cont": {
-              "max-width": "700px",
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".dot": {
-                "display": "none"
-              }
-            },
-            "@media (max-width: 543px)": {
-              ".number-wrap": {
-                "margin-bottom": "15px"
-              }
-            },
-            "@media (max-width: 550px)": {
-              ".col-xs-3": {
-                "padding-left": "0",
-                "padding-right": "0"
-              },
-              ".number-wrap": {
-                "min-width": "auto"
-              }
-            },
-            "@media (max-width: 440px)": {
-              ".number, .dot": {
-                "font-size": "40px"
-              }
-            },
-            "@media (max-width: 380px)": {
-              ".period": {
-                "font-size": "0.8rem"
-              }
-            }
-          },
-          "_name": "countdown1",
-          "_customHTML": "<section class=\"countdown1\" group=\"Countdowns\" plugins=\"countdown\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"text\" title=\"Countdown\" name=\"countdown\" value=\"2019/02/01\">\n        <input type=\"text\" inline title=\"Days\" name=\"daysCountdown\" value=\"Дней \">\n        <input type=\"text\" inline title=\"Hours\" name=\"hoursCountdown\" value=\"Часов\">\n        <input type=\"text\" inline title=\"Minutes\" name=\"minutesCountdown\" value=\"Минут\">\n        <input type=\"text\" inline title=\"Seconds\" name=\"secondsCountdown\" value=\"Секунд\">\n        <input type=\"color\" title=\"Numbers Color\" name=\"numbersColor\" value=\"#28262b\">\n        <input type=\"color\" title=\"Labels Color\" name=\"labelsColor\" value=\"#565656\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background2-1.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container \">\n        <h2 class=\"mbr-section-title pb-3 align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n            Countdown\n        </h2>\n        <h3 class=\"mbr-section-subtitle align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n            Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.\n        </h3>\n        \n    </div>\n    <div class=\"container countdown-cont align-center\">\n        <div title=\"{{daysCountdown}}\" class=\"daysCountdown\"></div>\n        <div title=\"{{hoursCountdown}}\" class=\"hoursCountdown\"></div> \n        <div title=\"{{minutesCountdown}}\" class=\"minutesCountdown\"></div> \n        <div title=\"{{secondsCountdown}}\" class=\"secondsCountdown\"></div>\n        <div class=\"countdown pt-5 mt-2\" data-due-date=\"{{countdown}}\"> \n        </div>\n    </div>\n</section>",
-          "_anchor": "countdown1-lg",
-          "_cid": "rc2fByg7l7",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -9625,7 +9524,7 @@
             }
           },
           "_name": "header3",
-          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"55\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073b4c\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#073b4c\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/-6000-1653x1762.png\" alt=\"Акция в бишкеке скидки\" title=\"Скидки для похудения бишкек\">\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\"><br><br>СЕЙЧАС <b>АКЦИЯ </b><b>для женщин</b><br><b>СКИДКА &nbsp;</b><b>6000 сом </b><br>за 3 месяца ПРОГРАММЫ похудения до 1 февраля 2019 г</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-5\">&nbsp;<br>С 1 апреля цена за 3 месяца <b>300$</b></h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\"><font color=\"#f7ed4a\">Возможность получить ПРОБНУЮ НЕДЕЛЬНУЮ схему похудения за 2000 сом. Если все устроит доплатить 13000 сом</font></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"программа похудения за 3 месяца.html#form4-5k\">УСПЕЙ ПОХУДЕТЬ со СКИДКОЙ&nbsp;+996 700 737436</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"55\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073b4c\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#073b4c\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/-6000-1653x1762.png\" alt=\"Акция в бишкеке скидки\" title=\"Скидки для похудения бишкек\">\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\"><br><br>СЕЙЧАС <b>АКЦИЯ </b><b>для женщин</b><br><b>СКИДКА &nbsp;</b><b>6000 сом </b><br>за 3 месяца ПРОГРАММЫ похудения</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-5\">&nbsp;<br>С 1 апреля цена за 3 месяца <b>300$</b></h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\"><font color=\"#f7ed4a\">Возможность получить ПРОБНУЮ НЕДЕЛЬНУЮ схему похудения за 2000 сом</font></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"программа похудения за 3 месяца.html#form4-5k\">УСПЕЙ ПОХУДЕТЬ со СКИДКОЙ&nbsp;+996 700 737436</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header3-mq",
           "_cid": "rcpd8wfMAb",
           "_protectedParams": [],
@@ -9646,7 +9545,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>\n                    УСПЕЙ со СКИДКОЙ </b><br><br>WhatsApp<b> +996 700 737436</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">WhatsApp, Viber +996 700 737436</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>\n                    УСПЕЙ со СКИДКОЙ </b><br><br>WhatsApp<b> +996 700 737436</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">WhatsApp, Viber +996 700 737436</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "reawzK4jiB",
           "_anchor": "content4-od",
           "_protectedParams": [],
@@ -9696,110 +9595,9 @@
             }
           },
           "_name": "header3",
-          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"100\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <a href=\"программа похудения онлайн.html#form4-5k\"><img src=\"@PROJECT_PATH@/assets/images/775x416-1.png\" alt=\"скидка акция распродажа в бишкеке\" title=\"похудеть быстро в бишкеке\"></a>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\"><br><br>До конца СКИДКИ<br><b>в 6000 сом</b> осталось...</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">\n                        Full width intro with image background, color overlay and a picture on the left. You can easily change the size of image in block parameters.\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"100\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <a href=\"программа похудения онлайн.html#form4-5k\"><img src=\"@PROJECT_PATH@/assets/images/775x416-1.png\" alt=\"скидка акция распродажа в бишкеке\" title=\"похудеть быстро в бишкеке\"></a>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\"><br><br><b>СКИДКА закончится</b> в любой момент...</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">\n                        Full width intro with image background, color overlay and a picture on the left. You can easily change the size of image in block parameters.\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header3-mr",
           "_cid": "rcpdeWdSy4",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background": "url(@bg-value)"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#767676",
-              "font-weight": "300"
-            },
-            ".number-wrap": {
-              "color": "@labelsColor",
-              "border-color": "rgba(255, 255, 255, 0.15)",
-              "position": "relative",
-              "display": "inline-block",
-              "text-align": "center",
-              "padding": "5px 10px 13px 10px",
-              "margin": "0",
-              "min-width": "118px",
-              "border-radius": "2px",
-              "max-width": "100%"
-            },
-            ".number": {
-              "font-style": "normal",
-              "font-weight": "700",
-              "font-size": "55px",
-              "text-transform": "none",
-              "letter-spacing": "-2px",
-              "word-spacing": "0",
-              "line-height": "1.3",
-              "color": "@numbersColor"
-            },
-            ".period": {
-              "display": "block",
-              "padding-top": "2px",
-              "border-top": "1px solid rgba(0, 0, 0, 0.1)"
-            },
-            ".dot": {
-              "position": "absolute",
-              "top": "-10px",
-              "right": "-1em",
-              "width": "1em",
-              "display": "block",
-              "height": "83%",
-              "overflow": "hidden",
-              "font-style": "normal",
-              "font-weight": "700",
-              "font-size": "55px",
-              "line-height": "89.65px",
-              "text-transform": "none",
-              "letter-spacing": "0",
-              "word-spacing": "0",
-              "color": "@numbersColor"
-            },
-            ".countdown-cont": {
-              "max-width": "700px",
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".dot": {
-                "display": "none"
-              }
-            },
-            "@media (max-width: 543px)": {
-              ".number-wrap": {
-                "margin-bottom": "15px"
-              }
-            },
-            "@media (max-width: 550px)": {
-              ".col-xs-3": {
-                "padding-left": "0",
-                "padding-right": "0"
-              },
-              ".number-wrap": {
-                "min-width": "auto"
-              }
-            },
-            "@media (max-width: 440px)": {
-              ".number, .dot": {
-                "font-size": "40px"
-              }
-            },
-            "@media (max-width: 380px)": {
-              ".period": {
-                "font-size": "0.8rem"
-              }
-            }
-          },
-          "_name": "countdown1",
-          "_customHTML": "<section class=\"countdown1\" group=\"Countdowns\" plugins=\"countdown\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"text\" title=\"Countdown\" name=\"countdown\" value=\"2019/02/01\">\n        <input type=\"text\" inline title=\"Days\" name=\"daysCountdown\" value=\"Дней \">\n        <input type=\"text\" inline title=\"Hours\" name=\"hoursCountdown\" value=\"Часов\">\n        <input type=\"text\" inline title=\"Minutes\" name=\"minutesCountdown\" value=\"Минут\">\n        <input type=\"text\" inline title=\"Seconds\" name=\"secondsCountdown\" value=\"Секунд\">\n        <input type=\"color\" title=\"Numbers Color\" name=\"numbersColor\" value=\"#28262b\">\n        <input type=\"color\" title=\"Labels Color\" name=\"labelsColor\" value=\"#565656\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container \">\n        <h2 class=\"mbr-section-title pb-3 align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n            Countdown\n        </h2>\n        <h3 class=\"mbr-section-subtitle align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n            Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.\n        </h3>\n        \n    </div>\n    <div class=\"container countdown-cont align-center\">\n        <div title=\"{{daysCountdown}}\" class=\"daysCountdown\"></div>\n        <div title=\"{{hoursCountdown}}\" class=\"hoursCountdown\"></div> \n        <div title=\"{{minutesCountdown}}\" class=\"minutesCountdown\"></div> \n        <div title=\"{{secondsCountdown}}\" class=\"secondsCountdown\"></div>\n        <div class=\"countdown pt-5 mt-2\" data-due-date=\"{{countdown}}\"> \n        </div>\n    </div>\n</section>",
-          "_anchor": "countdown1-ms",
-          "_cid": "rcpdjLVgFr",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
