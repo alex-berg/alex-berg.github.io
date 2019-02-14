@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "похудей онлайн",
-    "currentPage": "сайт диетолога.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/128x128.png",
     "noImageResize": "",
-    "seo-meta": "",
+    "seo-meta": "Похудеть онлайн. Программа похудения онлайн. Похудеть быстро",
     "globalfooter": "",
     "versionFirst": "4.4.1",
     "uniqCompNum": 915,
@@ -48,8 +48,8 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110404422-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-110404422-1');\r\n</script>\r\n",
     "robotsText": "User-agent: *\nDisallow: /project.mobirise\nSitemap: http://www.alexberg.pro/sitemap.xml\nHost: www.alexberg.pro\n\n\n\n\n\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "http://www.alexberg.pro/",
-    "sitemapSwitcherAuto": "on",
+    "siteUrl": "http://www.alexberg.pro",
+    "sitemapSwitcherAuto": "",
     "sitemapSwitcher": "on",
     "screenshot": "screenshot.png"
   },
