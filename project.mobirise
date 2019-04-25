@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "похудей онлайн",
-    "currentPage": "программа похудения за 3 месяца.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4700,7 +4700,7 @@
         "main": true,
         "title": "ПРОГРАММА ПОХУДЕНИЯ  диетолог Алекс Берг Бишкек",
         "meta_descr": "Похудение программа с диетологом Алексом Бергом в Бишкеке. Худей онлайн в домашних условиях. Марафон похудения. Отдохнуть и похудеть на Иссык Куле. Программа похудения онлайн за 3 месяца до 30 кг. Средства для быстрого похудения в Бишкеке. Семинары, тренинги, коучинг с диетологом Алексом Бергом. О нас Алекс Берг\n",
-        "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/” />\n<meta name=\"yandex-verification\" content=\"08dbd850014fb29f\" />",
+        "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/” />\n<meta name=\"yandex-verification\" content=\"08dbd850014fb29f\" />\n<meta name=\"google-site-verification\" content=\"knutZ7CuCjvZxCM6OOYxdFMesUO-QELdcmIoDQ-qKhc\" />",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
