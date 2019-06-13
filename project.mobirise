@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "похудей онлайн",
-    "currentPage": "о нас.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -9512,11 +9512,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#c1c1c1\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>FAG (ответы на вопросы) </b>ПРОГРАММЫ ПОХУДЕНИЯ</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Короткие <b>видео ответы</b> на часто задаваемые вопросы по ПРОГРАММЕ ПОХУДЕНИЯ диетолога Алекса Берга</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rtg6eR3PqF",
+          "_anchor": "content4-us",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-us"
+          "_params": {}
         },
         {
           "_styles": {
@@ -9567,11 +9567,11 @@
           "_name": "content12",
           "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#c1c1c1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul><li><b>А ЕСЛИ Я НЕ ПОХУДЕЮ? &nbsp;</b><a href=\"https://youtu.be/_P0WEj7OjXU\">https://youtu.be/_P0WEj7OjXU</a>\n</li><li><b>А ВЫ БУДЕТЕ МНЕ ЗВОНИТЬ? &nbsp;</b><a href=\"https://youtu.be/UyAiGGpo8zg\">https://youtu.be/UyAiGGpo8zg</a><b>\n</b></li><li><b>А ВЕС НАЗАД НЕ ВЕРНЕТСЯ? &nbsp;</b><a href=\"https://youtu.be/hsBa33nr33E\">https://youtu.be/hsBa33nr33E</a><b>\n</b></li><li><b>3 ВРЕМЕННЫХ ОТРЕЗКА В ПРОГРАММЕ ПОХУДЕНИЯ &nbsp;</b><a href=\"https://youtu.be/m8dnGy3rVy8\">https://youtu.be/m8dnGy3rVy8</a><b>\n</b></li><li><b>ДВИГАТЕЛЬНАЯ АКТИВНОСТЬ ПРИ ПОХУДЕНИИ &nbsp;</b><a href=\"https://youtu.be/kotG5ZOV3TU\">https://youtu.be/kotG5ZOV3TU</a><b>\n</b></li><li><b>2 ГЛАВНЫХ СХЕМЫ ПОХУДЕНИЯ &nbsp;</b><a href=\"https://youtu.be/3oGB04__VFk\">https://youtu.be/3oGB04__VFk\n</a></li><li><b>3 ПЕРИОДА ФОРМИРОВАНИЯ ЖИРА &nbsp;</b><a href=\"https://youtu.be/KxZOJaMugrA\">https://youtu.be/KxZOJaMugrA\n</a></li><li><b>А КОЖА ПРОВИСНЕТ ПРИ ПОХУДЕНИИ? &nbsp;</b><a href=\"https://youtu.be/OZDp3j3LTEc\">https://youtu.be/OZDp3j3LTEc\n</a></li><li><b>Я КОРМЛЮ РЕБЕНКА - ЭТО НЕ ВРЕДНО? &nbsp;</b><a href=\"https://youtu.be/SQDAPFyghVQ\">https://youtu.be/SQDAPFyghVQ\n</a></li><li><b>ЭТО НЕ ВРЕДНО БЫСТРО ХУДЕТЬ? &nbsp;</b><a href=\"https://youtu.be/D4SUuBsbnls\">https://youtu.be/D4SUuBsbnls</a><b><a href=\"https://youtu.be/D4SUuBsbnls\">\n</a></b></li><li><b>НЕ ВРИТЕ СЕБЕ И НАМ &nbsp;</b><a href=\"https://youtu.be/aO2otpbVdIg\">https://youtu.be/aO2otpbVdIg\n</a></li><li><b>ЗДОРОВЫЙ ОБРАЗ ЖИЗНИ - ОСНОВА ПОХУДЕНИЯ &nbsp;</b><a href=\"https://youtu.be/NG5j7o596JM\">https://youtu.be/NG5j7o596JM\n</a></li><li><b>ПРИЧИНА НЕУДАЧИ НА ПРОЕКТЕ ПОХУДЕНИЯ &nbsp;</b><a href=\"https://youtu.be/mUsGIaQ47qs\">https://youtu.be/mUsGIaQ47qs</a><b>\n</b></li><li><b>ПИЩЕВЫЕ МУТАНТЫ СРЕДИ НАС &nbsp;</b><a href=\"https://youtu.be/ygNX-iM4aqM\">https://youtu.be/ygNX-iM4aqM\n</a></li><li><b>ПРОГРАММА ПИТАНИЯ В ПРОЕКТЕ ПОХУДЕНИЯ &nbsp;</b><a href=\"https://youtu.be/ZDuKnhWBwO8\">https://youtu.be/ZDuKnhWBwO8\n</a></li><li><b>ОЖИРЕНИЕ И СЕРДЦЕ &nbsp;</b><a href=\"https://youtu.be/JvMIy_5G7Pc\">https://youtu.be/JvMIy_5G7Pc\n</a></li><li><b>ОФИЦИАЛЬНАЯ СТАТИСТИКА ПОХУДЕНИЯ В МИРЕ &nbsp;</b><a href=\"https://youtu.be/2P_kP5knBGs\">https://youtu.be/2P_kP5knBGs\n</a></li><li><b>ВЗАИМОДЕЙСТВИЕ С ТРЕНЕРОМ &nbsp;</b><a href=\"https://youtu.be/Vgs7zrhmDlw\">https://youtu.be/Vgs7zrhmDlw</a><b>\n</b></li><li><b>Я И ТАК МНОГО ДВИГАЮСЬ </b>&nbsp;<a href=\"https://youtu.be/ggjqtNBkc1Q\">https://youtu.be/ggjqtNBkc1Q</a>\n</li><li><b>Я НЕ ХОЧУ ОТКАЗЫВАТЬСЯ ОТ СЛАДКОГО И МУЧНОГО &nbsp;</b><a href=\"https://youtu.be/-7yTDC6JaSg\">https://youtu.be/-7yTDC6JaSg</a></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rtg6iC0Nys",
+          "_anchor": "content12-ut",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content12-ut"
+          "_params": {}
         },
         {
           "_styles": {
