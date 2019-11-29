@@ -49,7 +49,7 @@
     "robotsText": "User-agent: *\nDisallow: /project.mobirise\nSitemap: http://www.alexberg.pro/sitemap.xml\nHost: www.alexberg.pro\n\n\n\n\n\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "http://www.alexberg.pro",
-    "sitemapSwitcherAuto": "",
+    "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "screenshot": "screenshot.png"
   },

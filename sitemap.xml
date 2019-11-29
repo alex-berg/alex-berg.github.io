@@ -6,7 +6,7 @@
 		<loc>http://www.alexberg.pro/о нас.html</loc>
 	</url>
 	<url>
-		<loc>http://www.alexberg.pro/</loc>
+		<loc>http://www.alexberg.pro/index.html</loc>
 	</url>
 	<url>
 		<loc>http://www.alexberg.pro/похудение отзывы.html</loc>
@@ -31,5 +31,8 @@
 	</url>
 	<url>
 		<loc>http://www.alexberg.pro/marafon-pohydenie.html</loc>
+	</url>
+	<url>
+		<loc>http://www.alexberg.pro/pp_pravilnoe_pitanie.html</loc>
 	</url>
 </urlset>
