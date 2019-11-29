@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "похудей онлайн",
-    "currentPage": "index.html",
+    "currentPage": "программа похудения за 3 месяца.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/128x128.png",
     "noImageResize": "",
-    "seo-meta": "Диетолог Алекс Берг Бишкек. Программа похудения Киргизия. Похудеть быстро за неделю в Бишкеке. Похудеть и отдохнуть на Иссык Куле. Консультация диетолога в Бишкеке. Марафон похудения онлайн. Средства для похудения в Бишкеке.",
+    "seo-meta": "Диетолог Алекс Берг Бишкек. Программа похудения онлайн. Похудеть быстро за неделю в Бишкеке. Похудеть и отдохнуть на Иссык Куле. Консультация диетолога онлайн. Марафон похудения онлайн. Средства для похудения в Бишкеке.",
     "globalfooter": "",
     "versionFirst": "4.4.1",
     "uniqCompNum": 1134,
@@ -4560,7 +4560,7 @@
         "main": true,
         "title": "ПРОГРАММА ПОХУДЕНИЯ ОНЛАЙН диетолог Алекс Берг",
         "meta_descr": "Похудение онлайн программа с диетологом Алексом Бергом. Худей онлайн в домашних условиях. Марафон похудения. Отдохнуть и похудеть на Иссык Куле. Программа похудения онлайн за 3 месяца до 30 кг. Средства для быстрого похудения в Бишкеке. Семинары, тренинги, коучинг с диетологом Алексом Бергом. О нас Алекс Берг\n",
-        "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/” />\n<meta name=\"yandex-verification\" content=\"08dbd850014fb29f\" />\n<meta name=\"google-site-verification\" content=\"knutZ7CuCjvZxCM6OOYxdFMesUO-QELdcmIoDQ-qKhc\" />",
+        "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/index.html” />\n<meta name=\"yandex-verification\" content=\"08dbd850014fb29f\" />\n<meta name=\"google-site-verification\" content=\"knutZ7CuCjvZxCM6OOYxdFMesUO-QELdcmIoDQ-qKhc\" />",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
         "html_before": ""
       },
