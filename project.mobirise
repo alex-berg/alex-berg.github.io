@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "похудей онлайн",
-    "currentPage": "index.html",
+    "currentPage": "marafon-pohydenie.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
         "#9d2d08"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/128x128.png",
+    "favicon": "",
     "noImageResize": "",
     "seo-meta": "Диетолог Алекс Берг Бишкек. Программа похудения онлайн. Похудеть быстро за неделю в Бишкеке. Похудеть и отдохнуть на Иссык Куле. Консультация диетолога онлайн. Марафон похудения онлайн. Средства для похудения в Бишкеке",
     "globalfooter": "",
@@ -60,7 +60,7 @@
         "title": "ПОХУДЕЙ БЫСТРО за неделю в Бишкеке",
         "order": 3,
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/похудеть за неделю.html” />",
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
       "components": [
@@ -2886,7 +2886,7 @@
         "title": "о нас Алекс Берг медиа кит",
         "order": 11,
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/о нас.html” />",
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
       "components": [
@@ -3858,120 +3858,6 @@
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
             },
-            ".mbr-iconfont": {
-              "font-size": "48px",
-              "padding-right": "1rem"
-            },
-            ".input": {
-              "margin-bottom": "15px"
-            },
-            ".map": {
-              "width": "100%",
-              "height": "30rem",
-              "iframe": {
-                "width": "inherit",
-                "height": "100%"
-              }
-            },
-            ".icon-block": {
-              "margin-bottom": "10px",
-              "display": "-webkit-flex",
-              "align-items": "center",
-              "-webkit-align-items": "center",
-              ".icon-block__icon": {
-                "display": "inline-block",
-                "flex-shrink": "0",
-                "-webkit-flex-shrink": "0"
-              },
-              ".icon-block__title": {
-                "display": "inline-block",
-                "align-self": "center",
-                "-webkit-align-self": "center",
-                "margin-bottom": "0",
-                "line-height": "1",
-                "font-style": "italic"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            "a:not([href]):not([tabindex])": {
-              "color": "#fff",
-              "border-radius": "3px"
-            },
-            ".multi-horizontal": {
-              "flex-grow": "1",
-              "-webkit-flex-grow": "1",
-              "max-width": "100%"
-            },
-            ".input-group-btn": {
-              "display": "block",
-              "text-align": "center"
-            },
-            ".google-map": {
-              "height": "25rem",
-              "position": "relative",
-              "iframe": {
-                "height": "100%",
-                "width": "100%"
-              },
-              "[data-state-details]": {
-                "color": "#6b6763",
-                "font-family": "Montserrat",
-                "height": "1.5em",
-                "margin-top": "-0.75em",
-                "padding-left": "1.25rem",
-                "padding-right": "1.25rem",
-                "position": "absolute",
-                "text-align": "center",
-                "top": "50%",
-                "width": "100%"
-              },
-              "&[data-state]": {
-                "background": "#e9e5dc"
-              },
-              "&[data-state=\"loading\"]": {
-                "[data-state-details]": {
-                  "display": "none"
-                },
-                "&::after": {}
-              }
-            },
-            "@media (max-width: 767px)": {
-              "h2": {
-                "padding-top": "2rem"
-              }
-            },
-            "@media (min-width: 768px)": {
-              ".container > .row > .col-md-6": {
-                "&:first-child": {
-                  "padding-right": "30px"
-                },
-                "&:last-child": {
-                  "padding-left": "30px"
-                }
-              }
-            }
-          },
-          "_name": "form4",
-          "_customHTML": "<section class=\"mbr-section form4\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\">\n\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJFZrWub-3njgR8ukqoy2BpbY\" value=\"Бишкек Гоголя 114\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\">\n        <input type=\"checkbox\" title=\"Show Subheading\" name=\"showSubheading\" checked>\n        <input type=\"checkbox\" title=\"Show Contacts\" name=\"showContacts\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Form\" name=\"showForm\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background1-1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\">\n                </div>\n            </div>\n            <div class=\"col-md-6\">\n                <h2 mbr-if=\"showTitle\" class=\"pb-3 align-left mbr-fonts-style\" mbr-theme-style=\"display-2\">ОСТАЛИСЬ ВОПРОСЫ?</h2>\n                <div>\n                    <div class=\"icon-block pb-3\">\n                        <span mbr-if=\"showIcons\" class=\"icon-block__icon\">\n                            <span mbr-icon class=\"mbri-letter mbr-iconfont\"></span>\n                        </span>\n                        <h4 mbr-if=\"showSubheading\" class=\"icon-block__title align-left mbr-fonts-style\" mbr-theme-style=\"display-5\">Phone: &nbsp; &nbsp; &nbsp; &nbsp; +996 700 737436\n<div>WhatsApp:  +996 700 737436</div><br><div><span style=\"font-style: normal;\">Свяжитесь с диетологом Алексом Бергом по номеру 0700 737436</span></div></h4>\n                    </div>\n                    <div class=\"icon-contacts pb-3\" mbr-if=\"showContacts\">\n                        <h5 mbr-if=\"showSubtitle\" class=\"align-left mbr-fonts-style\" mbr-theme-style=\"display-7\"></h5>\n                        <p mbr-if=\"showText\" class=\"mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>1.</b>&nbsp;Свяжитесь с диетологом по номеру 0700 737436<br></p>\n                    </div>\n                </div>\n                <div mbr-form mbr-if=\"showForm\">\n                    <div data-form-alert hidden>Спасибо что написали мне. В ближайшее время я свяжусь с вами. \nАлекс Берг</div>\n                    <form class=\"block mbr-form\" action=\"aleksberg2014@yandex.ru\" method=\"post\" name=\"Mobirise Form\">\n                        <div class=\"row\">\n                            <div class=\"col-md-6 multi-horizontal\" data-for=\"name\">\n                                <input type=\"text\" class=\"form-control input\" name=\"name\" data-form-field=\"Name\" placeholder=\"Ваше имя\" required>\n                            </div>\n                            <div class=\"col-md-6 multi-horizontal\" data-for=\"phone\">\n                                <input type=\"text\" class=\"form-control input\" name=\"phone\" data-form-field=\"Phone\" placeholder=\"телефон\" required>\n                            </div>\n                            <div class=\"col-md-12\" data-for=\"email\">\n                                <input type=\"text\" class=\"form-control input\" name=\"email\" data-form-field=\"Email\" placeholder=\"Email\" required>\n                            </div>\n                            <div class=\"col-md-12\" data-for=\"message\">\n                                <textarea class=\"form-control input\" name=\"message\" rows=\"3\" data-form-field=\"Message\" placeholder=\"Сообщение\" style=\"resize:none\"></textarea>\n                            </div>\n                            <div class=\"input-group-btn col-md-12\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" style=\"margin-top: 10px;\"><a href type=\"submit\" class=\"btn btn-primary btn-form\">ОТПРАВИТЬ</a></div>\n                        </div>\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "form4-65",
-          "_cid": "qDREeBhq6X",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
             ".socicon-bg-facebook": {
               "background": "#3e5b98",
               "color": "contrast(#3e5b98)"
@@ -4151,7 +4037,7 @@
             }
           },
           "_name": "footer2",
-          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJFZrWub-3njgR8ukqoy2BpbY\" value=\"Киргизи я бишкек Гоголя 114\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected=\"\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content mbr-white\">\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\"><b>Адрес</b><br>Киргизия Бишкек ул. Гоголя 114<br>\n                    <br>\n                    <br><b>Контакты</b><br>\n                    <br>Email: aleksmayzer@yandex.ru<br><br>Телефон &nbsp;+996 700 737436\n<br>\n<br>WhatsApp +996 700 737436\n<br>\n<br>Viber\n+996 700 737436<br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\"><b>Страницы сайта&nbsp;</b><br><br><a href=\"index.html\">Главная похудеть Алекс Берг</a><a href=\"index.html\">&nbsp; </a>                   \n<br><a href=\"похудеть за неделю.html\">Похудеть за неделю в Бишкеке</a>\n<br><a href=\"программа похудения за 3 месяца.html\">Программа похудения онлайн</a>&nbsp;<br><a href=\"сайт диетолога.html\">Консультация диетолога</a><br><a href=\"Иссык Куль похудение отдых .html\">Иссык Куль отдых похудение</a><a href=\"Иссык Куль похудение отдых .html\"><br></a><a href=\"marafon-pohydenie.html\">Марафон Похудения Онлайн</a><br><a href=\"pp_pravilnoe_pitanie.html\">ПП правильное питание рецепт</a><br><a href=\"treningi_seminary_pohydenie.html\">Семинары тренинги похудение</a><br><a href=\"похудение отзывы.html\">Похудение отзывы&nbsp;результаты</a><br><a href=\"о нас.html\">О нас Алекс Берг медиа кит</a><br><a href=\"видео похудение дома.html\">Видео для похудения\n</a><br><br></p>\n            </div>\n            <div class=\"col-12 col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2017 Mobirise - All Rights Reserved\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJFZrWub-3njgR8ukqoy2BpbY\" value=\"Киргизи я бишкек Гоголя 114\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\" selected>6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value>\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content mbr-white\">\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\"><b>Адрес</b><br>Киргизия Бишкек ул. Гоголя 114<br>\n                    <br>\n                    <br><b>Контакты</b><br>\n                    <br>Email: aleksmayzer@yandex.ru<br><br>Телефон &nbsp;+996 700 737436\n<br>\n<br>WhatsApp +996 700 737436\n<br>\n<br>Viber\n+996 700 737436<br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\"><b>Страницы сайта&nbsp;</b><br><br><a href=\"index.html\">Главная похудеть Алекс Берг</a><a href=\"index.html\">&nbsp; </a>                   \n<br><a href=\"похудеть за неделю.html\">Похудеть за неделю в Бишкеке</a>\n<br><a href=\"программа похудения за 3 месяца.html\">Программа похудения онлайн</a>&nbsp;<br><a href=\"сайт диетолога.html\">Консультация диетолога</a><br><a href=\"Иссык Куль похудение отдых .html\">Иссык Куль отдых похудение</a><a href=\"Иссык Куль похудение отдых .html\"><br></a><a href=\"marafon-pohydenie.html\">Марафон Похудения Онлайн</a><br><a href=\"pp_pravilnoe_pitanie.html\">ПП правильное питание рецепт</a><br><a href=\"treningi_seminary_pohydenie.html\">Семинары тренинги похудение</a><br><a href=\"похудение отзывы.html\">Похудение отзывы&nbsp;результаты</a><br><a href=\"о нас.html\">О нас Алекс Берг медиа кит</a><br><a href=\"видео похудение дома.html\">Видео для похудения\n</a><br><br></p>\n            </div>\n            <div class=\"col-12 col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2017 Mobirise - All Rights Reserved\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "footer2-wc",
           "_cid": "rJufeTerdF",
           "_protectedParams": [],
@@ -4561,7 +4447,7 @@
         "title": "ПРОГРАММА ПОХУДЕНИЯ ОНЛАЙН диетолог Алекс Берг",
         "meta_descr": "Похудение онлайн программа с диетологом Алексом Бергом. Худей онлайн в домашних условиях. Марафон похудения. Отдохнуть и похудеть на Иссык Куле. Программа похудения онлайн за 3 месяца до 30 кг. Средства для быстрого похудения в Бишкеке. Семинары, тренинги, коучинг с диетологом Алексом Бергом. О нас Алекс Берг\n",
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/index.html” />\n<meta name=\"yandex-verification\" content=\"08dbd850014fb29f\" />\n<meta name=\"google-site-verification\" content=\"knutZ7CuCjvZxCM6OOYxdFMesUO-QELdcmIoDQ-qKhc\" />",
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
       "components": [
@@ -6750,7 +6636,7 @@
         "title": "похудение отзывы и результаты",
         "order": 10,
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/похудение отзывы.html” />",
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
       "components": [
@@ -8303,7 +8189,7 @@
         "title": "ПОХУДЕЙ ОНЛАЙН программа похудения 3 месяца",
         "order": 1,
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/программа похудения за 3 месяца.html” />",
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
       "components": [
@@ -11556,7 +11442,7 @@
         "meta_descr": "Видео УРОКИ для ПОХУДЕНИЯ. Здоровый образ жизни. Обучающие тренинги семинары онлайн.  БЕСПЛАТНОЕ видео похудения",
         "title": "Видео для ПОХУДЕНИЯ",
         "order": 9,
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/видео похудение дома.html” />"
       },
@@ -12205,7 +12091,7 @@
         "meta_descr": "Иссык Куль пляжный отдых, лагерь для похудения. Горное озеро, здоровое питание, экскурсионный тур. Хороший отдых и эффективное похудение на Иссык Куле",
         "title": "Иссык Куль ОТДЫХ и ПОХУДЕНИЕ на море 2020",
         "order": 5,
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/Иссык Куль похудение отдых .html” />"
       },
@@ -17307,7 +17193,7 @@
         "meta_descr": "Диетолог ОНЛАЙН консультация. Программа питания для похудения. Упражнения для похудения. Советы диетолога  сайт",
         "title": "ДИЕТОЛОГ консультация ОНЛАЙН",
         "order": 6,
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/сайт диетолога.html” />"
       },
@@ -18682,7 +18568,7 @@
         "meta_descr": "Поудеть ОНЛАЙН в марафоне до 9 кг за месяц.  Авторский марафон похудения Алекса Берга",
         "title": "МАРАФОН ПОХУДЕНИЯ онлайн с Алексом Бергом",
         "order": 4,
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/marafon-pohydenie.html” />"
       },
@@ -18704,48 +18590,6 @@
           "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#073b4c\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">ОНЛАЙН МАРАФОН - тренинг ПОХУДЕНИЯ\n<div>Алекса Берга</div></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">Авторский марафон быстрого похудения в домашних условиях</h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\">\n                    БЕЗ БАДов, БЕЗ таблеток, БЕЗ тренажерных залов\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">\n                        <span class=\"mbr-iconfont mbri-file\"></span>LEARN MORE</a>\n                    <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.com\">\n                        <span class=\"mbr-iconfont mbri-idea\"></span>LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "rdjzpeDnOd",
           "_anchor": "header1-na",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "background": "@bgColor",
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(45deg, @bgColor, @color2)"
-            },
-            ".image-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            ".mbr-figure": {
-              "margin": "0 auto"
-            },
-            "figcaption": {
-              "position": "relative",
-              "div": {
-                "position": "absolute",
-                "bottom": "0",
-                "width": "100%"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".image-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "image2",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"82\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/-1160x481.jpg\" alt=\"марафон похудения\" title=\"Онлайн марафон похудения Алекса Берга\">\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    Create awesome websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
-          "_cid": "rdjCs9aaKo",
-          "_anchor": "image2-nc",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -19662,7 +19506,7 @@
         "meta_descr": "ПП правильное питание меню для кафе и ресторанов здорового питания. Готовое меню рецепты ПП для похудения, набора мышечной массы и сушки. Разработанно спортивным диетологом Алексом Бергом",
         "title": "Рецепты правильного питания. ПП меню ресторана и кафе",
         "order": 7,
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/pp_pravilnoe_pitanie.html” />"
       },
@@ -20434,7 +20278,7 @@
         "meta_descr": "Похудение тренинги семинары в Бишкеке. Онлайн тренинг видео YouTube. Проведение тренингов и семинаров по похудению и здоровому образу жизни в Бишкеке",
         "title": "СЕМИНАРЫ ТРЕНИНГИ по похудению в Бишкеке",
         "order": 8,
-        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
+        "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
         "header_custom": "<link rel=“canonical” href=“http://www.alexberg.pro/treningi_seminary_pohydenie.html” />"
       },
