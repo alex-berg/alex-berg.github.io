@@ -52,10 +52,9 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "screenshot": "screenshot.png",
-    "publishType": "local",
+    "publishType": "github",
     "gitHubName": "alex-berg",
-    "gitHubPath": "",
-    "publishPath": "@PROJECT_PATH@"
+    "gitHubPath": ""
   },
   "pages": {
     "похудеть за неделю.html": {
