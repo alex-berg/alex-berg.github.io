@@ -52,7 +52,7 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "screenshot": "screenshot.png",
-    "publishType": "local",
+    "publishType": "github",
     "gitHubName": "alex-berg",
     "gitHubPath": "",
     "publishPath": "@PROJECT_PATH@",
@@ -71,7 +71,7 @@
         "meta_descr": "Худей за неделю до 7 кг в Бишкеке. Сбросить вес. ЭКСТРЕМАЛЬНОЕ быстрое ПОХУДЕНИЕ. Жиросжигание. Программа быстрого похудения на неделю в Бишкеке",
         "title": "ПОХУДЕЙ БЫСТРО за неделю в Бишкеке",
         "order": 6,
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>",
+        "header_custom": "",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
@@ -2833,7 +2833,7 @@
         "main": true,
         "title": "ПОХУДЕЙ ОНЛАЙН",
         "meta_descr": "Похудение онлайн с диетологом нутрициологом Алексом Бергом. Худей онлайн в домашних условиях. Бизнес в интернет похудение онлайн.  Марафон похудения. Отдохнуть и похудеть на Иссык Куле. Программа похудения онлайн за 3 месяца до 30 кг. Средства для быстрого похудения в Бишкеке. Семинары, тренинги, коучинг с нутрициологом диетологом Алексом Бергом. О нас диетолог нитрициолог Алекс Берг\n",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>",
+        "header_custom": "<meta name=\"yandex-verification\" content=\"08dbd850014fb29f\" />\n<meta name=\"google-site-verification\" content=\"knutZ7CuCjvZxCM6OOYxdFMesUO-QELdcmIoDQ-qKhc\" />\n<meta name=\"p:domain_verify\" content=\"f77d4f53fd715c42084cefaa8aa4b9cd\"/>\n<!-- Messenger Плагин чата Code -->\n    <div id=\"fb-root\"></div>\n\n    <!-- Your Плагин чата code -->\n    <div id=\"fb-customer-chat\" class=\"fb-customerchat\">\n    </div>\n\n    <script>\n      var chatbox = document.getElementById('fb-customer-chat');\n      chatbox.setAttribute(\"page_id\", \"111227780501082\");\n      chatbox.setAttribute(\"attribution\", \"biz_inbox\");\n    </script>\n\n    <!-- Your SDK code -->\n    <script>\n      window.fbAsyncInit = function() {\n        FB.init({\n          xfbml            : true,\n          version          : 'v12.0'\n        });\n      };\n\n      (function(d, s, id) {\n        var js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id)) return;\n        js = d.createElement(s); js.id = id;\n        js.src = 'https://connect.facebook.net/ru_RU/sdk/xfbml.customerchat.js';\n        fjs.parentNode.insertBefore(js, fjs);\n      }(document, 'script', 'facebook-jssdk'));\n    </script>",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
@@ -4236,7 +4236,7 @@
         "meta_descr": "Результаты похудения отзывы. Похудение фото.  Истории похудения. ",
         "title": "похудение отзывы и результаты",
         "order": 14,
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>",
+        "header_custom": "",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
@@ -5732,7 +5732,7 @@
         "meta_descr": "Програма Онлайн Похудения до 30 кг за 3 месяца. Похудеть с диетологом Алексом Бергом. Оздоровление, мотивация, правильное питание, диета, меню. Здоровый образ жизни начинается в программе похудения онлайн с диетологом Алексом Бергом",
         "title": "ПРОГРАММА ПОХУДЕНИЯ ОНЛАЙН",
         "order": 4,
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>",
+        "header_custom": "",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
@@ -8777,7 +8777,7 @@
         "order": 9,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -12539,7 +12539,7 @@
         "meta_descr": "О нас Алекс Берг спортивный диетолог. Медиа кит Алекса Берга",
         "title": "МОЗАИКА из бетона СВОИМИ РУКАМИ - малый бизнес",
         "order": 17,
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>",
+        "header_custom": "",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        id:46825050,\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n\n<script type='text/javascript'>\n(function () {\n    window['yandexChatWidgetCallback'] = function() {\n        try {\n            window.yandexChatWidget = new Ya.ChatWidget({\n                guid: '96b633ac-4072-4a00-95bf-222de5ee32b0',\n                buttonText: 'WhatsApp +996 700 737436',\n                title: 'WhatsApp +996 700 737436',\n                theme: 'light',\n                collapsedDesktop: 'never',\n                collapsedTouch: 'always'\n            });\n        } catch(e) { }\n    };\n    var n = document.getElementsByTagName('script')[0],\n        s = document.createElement('script');\n    s.async = true;\n    s.src = 'https://chat.s3.yandex.net/widget.js';\n    n.parentNode.insertBefore(s, n);\n})();\n</script>",
         "html_before": ""
       },
@@ -13754,7 +13754,7 @@
         "order": 8,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -15265,7 +15265,7 @@
         "order": 7,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -16203,7 +16203,7 @@
         "order": 10,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -17512,7 +17512,7 @@
         "meta_descr": "About us Alex Berg is a sports nutritionist. Media Kit Alex Berg",
         "title": "about us Аlex Berg media kit",
         "order": 16,
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>",
+        "header_custom": "",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
@@ -18811,7 +18811,7 @@
         "meta_descr": "О нас Алекс Берг спортивный диетолог. Медиа кит Алекса Берга",
         "title": "О нас диетолог Алекс Берг медиа кит",
         "order": 15,
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>",
+        "header_custom": "",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
@@ -20308,7 +20308,7 @@
         "meta_descr": "Online Weight Loss Program up to 30 kg in 3 months. Lose weight with nutritionist Alex Berg. Improvement, motivation, proper nutrition, diet, menu. A healthy lifestyle begins in an online weight loss program with nutritionist Alex Berg",
         "title": "SLIMMING PROGRAM ONLINE",
         "order": 5,
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>",
+        "header_custom": "",
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": ""
       },
@@ -22364,7 +22364,7 @@
         "title": "Система БИЗНЕС ОНЛАЙН ПОХУДЕНИЯ ",
         "order": 1,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -23716,7 +23716,7 @@
         "title": "НАБОР МАССЫ в Бишкеке",
         "order": 2,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -24816,7 +24816,7 @@
         "order": 11,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -26070,7 +26070,7 @@
         "title": "ПОХУДЕЙ в Москве",
         "order": 3,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -27100,7 +27100,7 @@
         "order": 12,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
@@ -28200,7 +28200,7 @@
         "order": 13,
         "footer_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(46825050, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46825050\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "html_before": "",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PRL1ED272Q\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PRL1ED272Q');\n</script>"
+        "header_custom": ""
       },
       "components": [
         {
